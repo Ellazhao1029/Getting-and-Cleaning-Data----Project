@@ -11,4 +11,4 @@ The R script, **run_analysis.R
 5. The three data sets, **x**, **y** and **s**, are merged. Then, it is exported as a *txt* file into the Project folder in the same working directory, named **merged_data.txt**.
 6. The *mean* of activities and subjects are created into a separate tidy data set which is exported into the Project folder as *txt* file.
 
-The end result is shown in the file **average_dateset.txt**.
+The end result showns in the file **average_dateset.txt**.
